@@ -18,6 +18,7 @@ def storona(x, y):
         return "III"
     if x > 0 and y < 0:
         return 'IV'
+        '''
 
 print(storona(1,-2))
 p = 'password'
@@ -29,4 +30,4 @@ def ask_password():
             return
     print('в доступе отказано')
     return
-ask_password'''
+ask_password
